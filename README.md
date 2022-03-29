@@ -1,9 +1,9 @@
-# mb-PHENIX
+# mb-PHENIX Imputation  (2020; Code for paper)
 
 
 [![Open Example In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing)
 
-mb-PHENIX Imputation  (2020; Code for paper)
+
 ==============================
 
 !![myimage-alt-tag](https://github.com/resendislab/mb-PHENIX/blob/main/Screen%20Shot%202022-03-29%20at%2017.18.25.png)
