@@ -1,4 +1,4 @@
-# mb-PHENIX Imputation  (2020; Code for paper)
+# mb-PHENIX Imputation  (2022; Code for paper)
 
 
 [![Open Example In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing)
@@ -8,7 +8,6 @@
 
 !![myimage-alt-tag](https://github.com/resendislab/mb-PHENIX/blob/main/Screen%20Shot%202022-03-29%20at%2017.18.25.png)
 
-This repository contains the code needed to reproduce the results in the paper "Parametric UMAP: learning embeddings with deep neural networks for representation and semi-supervised learning" by Sainburg, McInnes, and Gentner (2020). 
 
 Citation: 
 
@@ -30,7 +29,7 @@ The code can be installed with `python setup.py develop`. Though, unless you're 
 
 In addition, we have a more verbose Colab notebook to walk you through the algorithm:
 
-Parametric UMAP (verbose) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing)
+mb-PHENIX is available in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing)
 
 
 ### What's inside
