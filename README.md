@@ -18,7 +18,10 @@ Therefore,  mb-PHENIX  is ideal for datasets where similar samples have the same
 
 
 ### How to use
-You need first to uses UMAP (non-linear dimensional reducion) in a supervised manner  more information in here [click here](https://umap-learn.readthedocs.io/en/latest/supervised.html)
+
+The user needs to have knowledge of how to use of pandas and numpy libraries, this implies that the user has python knowledge. Any free course, cursera or udeamy course can be used to learn faster this python libraries, for recent users please go in here  [click here](https://www.udemy.com/share/101WaU3@3A6uj9QXHRFfZxf59mg8aLG7J1eXrfzT5RKo5SO1VRl9RxsqCEINIxSf67WH3GsG/) to learn the basics.
+
+mb-PHENIX is based manly of the use of UMAP, so the abundance matrix need to be transformed into a lower dimensionality using UMAP if data has no cluster strucutre please use UMAP in superviced manner, more information in here [click here](https://umap-learn.readthedocs.io/en/latest/supervised.html)
 
 
 The main implementation of this code is available in `umap.parametric_umap` in the [UMAP repository](https://github.com/lmcinnes/umap) (v0.5+). Most people reading this will want to use that code, and can ignore this repository. 
