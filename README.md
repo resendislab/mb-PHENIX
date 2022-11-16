@@ -1,8 +1,6 @@
 # mb-PHENIX Imputation  (2022; Code for paper)
 
 
-[![Open Example In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing)
-
 
 ==============================
 
