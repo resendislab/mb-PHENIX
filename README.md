@@ -61,8 +61,8 @@ The `knn` and `t` values need to be sufficient to build a complete graph (consid
 plase make sure if you want to use on colab download and install umap 
 
 
-Here is a small example to whet your appetite:
-put this in a colab cell and run it 
+
+put this in a colab cell and run it to pip install UMAP! from [click here](https://umap-learn.readthedocs.io/en/latest/supervised.html). 
 ```python
 !pip install umap-learn
 number = input("What is your favourite number?")
