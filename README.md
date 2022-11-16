@@ -94,7 +94,9 @@ Warning! UMAP sometimes is not reproducible among different machines if you work
 mb-PHENIX is available in colab [![Open In Colab](https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHENIX_try_me_example.ipynb)
 
 
-[![Open Example In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing](https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHENIX_try_me_example.ipynb))
+
+[![Open Example In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHENIX_try_me_example.ipynb)
+
 
 https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHENIX_try_me_example.ipynb
 
