@@ -91,16 +91,15 @@ from mb_PHENIX import mbPHENIX
 Warning! UMAP sometimes is not reproducible among different machines if you working in your computer that fine, but if you work in colab in each sesion you will have a different machine, so carefull. The code is in [here](https://raw.githubusercontent.com/resendislab/mb-PHENIX/main/CODE/mb-phenix%20code/mb_PHENIX.py
 ) if you want to use it on your computer for reproducibility purposes. Or just save the umap coordinates in then run with sc-PHENIX. The diffusion process in mb-PHENIX does not have reproducibility issues is just matrix operations.
 
-mb-PHENIX is available in colab [![Open In Colab](https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHENIX_try_me_example.ipynb)
-
-
-
-[![Open Example In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHENIX_try_me_example.ipynb)
-
-
+mb-PHENIX is available in colab 
 https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHENIX_try_me_example.ipynb
 
 Just click in run all to see mb-phenix in action for the T2D data
 !![myimage-alt-tag](https://github.com/resendislab/mb-PHENIX/blob/main/try%20me.png)
+
+
+```markdown
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHENIX_try_me_example.ipynb)
+```
 
 
