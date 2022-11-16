@@ -57,6 +57,6 @@ diffusion.
 
 The `knn` and `t` values need to be sufficient to build a complete graph (considering the class) and less to avoid over-smooth taxa to other distinct classes.
 
-mb-PHENIX is available in [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing)
+mb-PHENIX is available in colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing)
 
 
