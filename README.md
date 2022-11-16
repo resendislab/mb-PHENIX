@@ -85,7 +85,7 @@ then in other cell import mb-phenix
 from mb_PHENIX import mbPHENIX
 ```
 
-## Here a tutorial of sc-PHENIX
+## Here a tutorial of mb-PHENIX
 Warning! UMAP sometimes is not reproducible among different machines if you working in your computer that fine, but if you work in colab in each sesion you will have a different machine, so carefull. The code is in [here](https://raw.githubusercontent.com/resendislab/mb-PHENIX/main/CODE/mb-phenix%20code/mb_PHENIX.py
 ) if you want to use it on your computer for reproducibility purposes. Or just save the umap coordinates in then run with sc-PHENIX. The diffusion process in mb-PHENIX does not have reproducibility issues is just matrix operations.
 
