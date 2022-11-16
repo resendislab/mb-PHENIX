@@ -18,6 +18,8 @@ Therefore,  mb-PHENIX  is ideal for datasets where similar samples have the same
 
 
 ### How to use
+You need first to uses UMAP (non-linear dimensional reducion) in a supervised manner  more information in here [click here](https://umap-learn.readthedocs.io/en/latest/supervised.html)
+
 
 The main implementation of this code is available in `umap.parametric_umap` in the [UMAP repository](https://github.com/lmcinnes/umap) (v0.5+). Most people reading this will want to use that code, and can ignore this repository. 
 
