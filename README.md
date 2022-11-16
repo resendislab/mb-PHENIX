@@ -21,7 +21,7 @@ mb-PHENIX is based mainly of the use of UMAP, so the abundance matrix need to be
 
 ### How to use
 
-The input for the funcion mb-PHENIX are objects pandas or numpy object from the abundance matrix and the UMAP output, in the example of the image showed below are count matrix for the abundance matrix, data ump vis super for the UMAP output.
+The input for the funcion mb-PHENIX are objects pandas or numpy object from the abundance matrix and the UMAP output, in the example of the image showed below are count matrix for the abundance matrix, data_umap_vis_super for the UMAP output.
 
 !![myimage-alt-tag](https://github.com/resendislab/mb-PHENIX/blob/main/parameters.jpg)
 
