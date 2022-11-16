@@ -97,9 +97,7 @@ https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHEN
 Just click in run all to see mb-phenix in action for the T2D data
 !![myimage-alt-tag](https://github.com/resendislab/mb-PHENIX/blob/main/try%20me.png)
 
-
-```markdown
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/resendislab/mb-PHENIX/blob/main/mb_PHENIX_try_me_example.ipynb)
-```
+
 
 
