@@ -72,13 +72,13 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 ```
-## download mb-PHENIX python script 
+## 3) download mb-PHENIX python script 
 
 in other cell download mb-phenix
 ```python
 url_mbphenix = 'https://raw.githubusercontent.com/resendislab/mb-PHENIX/main/CODE/mb-phenix%20code/mb_PHENIX.py'
 ```
-## import mb-PHENIX
+## 4) import mb-PHENIX
 then in other cell import mb-phenix 
 ```python
 from mb_PHENIX import mbPHENIX
