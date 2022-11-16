@@ -9,15 +9,7 @@
 !![myimage-alt-tag](https://github.com/resendislab/mb-PHENIX/blob/main/Screen%20Shot%202022-03-29%20at%2017.31.00.png)
 
 
-Citation: 
 
-```
-@article{parametricumap,
-  title={Parametric UMAP: learning embeddings with deep neural networks for representation and semi-supervised learning},
-  author={Sainburg, Tim and McInnes, Leland and Gentner, Timothy Q},
-}
-
-```
 ### What is mb-PHENIX
 
 The supervised based imputation of mb-PHENIX is based on the assumption that data present on high amounts of missing data, that do not let the user find a well-clustered structure on the microbiota data. Another assumption is that microbiota data is high-dimensional and using traditional reductional such as PCA or any Multidimensional scaling variants does not permit finding well patterns. 
