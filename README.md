@@ -65,8 +65,6 @@ plase make sure if you want to use on colab download and install umap
 put this in a colab cell and run it to pip install UMAP! from [click here](https://umap-learn.readthedocs.io/en/latest/supervised.html). 
 ```python
 !pip install umap-learn
-number = input("What is your favourite number?")
-print("It is", number + 1)  # error: Unsupported operand types for + ("str" and "int")
 ```
 
 then in other cell import the libraries to connect our github to the colab and pandas and visualization (use the visualization that you want)
@@ -90,8 +88,8 @@ from mb_PHENIX import mbPHENIX
 ```
 
 ## Here a tutorial of sc-PHENIX
-Warning! UMAP sometimes is not reproducible among different machines if you working in your computer that fine, but if you work in colab in each sesion you will have a different machine, so carefull. The code is in [here](https://www.udemy.com/share/101WaU3@3A6uj9QXHRFfZxf59mg8aLG7J1eXrfzT5RKo5SO1VRl9RxsqCEINIxSf67WH3GsG/) if you want to use it on your computer for reproducibility purposes. Or just save the umap coordinates in then run with sc-PHENIX. The diffusion process in mb-PHENIX does not have reproducibility issues is just matrix operations.
+Warning! UMAP sometimes is not reproducible among different machines if you working in your computer that fine, but if you work in colab in each sesion you will have a different machine, so carefull. The code is in [here](https://raw.githubusercontent.com/resendislab/mb-PHENIX/main/CODE/mb-phenix%20code/mb_PHENIX.py
+) if you want to use it on your computer for reproducibility purposes. Or just save the umap coordinates in then run with sc-PHENIX. The diffusion process in mb-PHENIX does not have reproducibility issues is just matrix operations.
 
 mb-PHENIX is available in colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing)
-
 
