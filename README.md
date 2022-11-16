@@ -57,6 +57,40 @@ diffusion.
 
 The `knn` and `t` values need to be sufficient to build a complete graph (considering the class) and less to avoid over-smooth taxa to other distinct classes.
 
+
+plase make sure if you want to use on colab download and install umap 
+
+
+Here is a small example to whet your appetite:
+put this in a colab cell and run it 
+```python
+!pip install umap-learn
+number = input("What is your favourite number?")
+print("It is", number + 1)  # error: Unsupported operand types for + ("str" and "int")
+```
+
+then in other cell import the libraries to connect our github to the colab and pandas and visualization (use the visualization that you want)
+```python
+import requests
+import os
+import urllib.request
+import pandas as pd
+import numpy as np
+import seaborn as sns
+```
+
+in other cell download mb-phenix
+```python
+url_mbphenix = 'https://raw.githubusercontent.com/resendislab/mb-PHENIX/main/CODE/mb-phenix%20code/mb_PHENIX.py'
+```
+
+then in other cell import mb-phenix 
+```python
+from mb_PHENIX import mbPHENIX
+```
+
+## Here a tutorial of sc-PHENIX
+
 mb-PHENIX is available in colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lpdCy7HkC5TRI9LfUtIHBBW8oRO86Nvi?usp=sharing)
 
 
